@@ -1,1 +1,2 @@
 I am learning few commands in Git.
+Now I am learning how local and remote repos communicate.
